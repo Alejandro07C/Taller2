@@ -42,4 +42,3 @@ public class Ejercicio3 {
         System.out.println("Numero menor: " + menor + " (posicion " + posMenor + ")");
     }
 }
-
