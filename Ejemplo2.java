@@ -29,4 +29,3 @@ public class Ejemplo2 {
         System.out.println("Promedio: " + promedio);
     }
 }
-
