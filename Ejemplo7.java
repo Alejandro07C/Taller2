@@ -28,4 +28,3 @@ public class Ejemplo7 {
         System.out.println("Suma total de los elementos: " + suma);
     }
 }
-
