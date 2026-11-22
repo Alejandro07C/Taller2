@@ -33,4 +33,3 @@ public class Ejemplo8 {
         System.out.println("Suma de la diagonal principal: " + sumaDiagonal);
     }
 }
-
