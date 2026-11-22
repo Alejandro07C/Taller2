@@ -40,4 +40,3 @@ public class Ejemplo4 {
         System.out.println("Suma de impares: " + sumaImpares);
     }
 }
-
