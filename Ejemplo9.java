@@ -39,6 +39,7 @@ public class Ejemplo9 {
             }
         }
 
+        
         System.out.println("Mayor valor: " + mayor);
         System.out.println("Menor valor: " + menor);
     }
